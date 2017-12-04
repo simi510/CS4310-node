@@ -1,14 +1,6 @@
 #Transport-Hub
 
-**Group project for CS4130 at CSU East Bay**
-**Team Name: Alfa**
 
-## Authors
-- Andrea Sánchez Blanco
-- Steven Rivera-James
-- Thomas “Trey” Freeman
-- “Simi” Singh
-- Zaid Laffta
 
 ## Description
 It is an easy to use, web based application that will help dispatchers and drivers do the following tasks:
